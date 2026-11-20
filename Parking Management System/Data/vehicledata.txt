@@ -1,0 +1,20 @@
+=====================================
+Owner: Karim
+Vehicle No: 23-43
+Phone: 01328428994
+Fee: 50
+Gender: Male
+Slot: 2 3
+Type: Car
+Comment: Hello
+=====================================
+=====================================
+Owner: sj
+Vehicle No: sa
+Phone: 73737829839
+Fee: 37
+Gender: Male
+Slot: 3
+Type: Car
+Comment: asd
+=====================================
